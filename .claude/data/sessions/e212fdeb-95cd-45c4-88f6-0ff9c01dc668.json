@@ -1,0 +1,13 @@
+{
+  "session_id": "e212fdeb-95cd-45c4-88f6-0ff9c01dc668",
+  "prompts": [
+    "Hola que sabes sobre MCPs? breve"
+  ],
+  "agent_name": "Quantum",
+  "extras": {
+    "branch": "redesign-premium-ux",
+    "tasks": 3,
+    "mode": "focus",
+    "latency_ms": 123
+  }
+}

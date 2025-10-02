@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "PreCompact",
+    "trigger": "auto",
+    "custom_instructions": null
+  }
+]

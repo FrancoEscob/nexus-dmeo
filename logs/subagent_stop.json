@@ -1,0 +1,234 @@
+[
+  {
+    "session_id": "4fa4c3fb-aa4d-4bd5-8eae-b0275b6eab15",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/4fa4c3fb-aa4d-4bd5-8eae-b0275b6eab15.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9c9c6a45-aa62-4597-b0be-f8209a905f6b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/9c9c6a45-aa62-4597-b0be-f8209a905f6b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9c9c6a45-aa62-4597-b0be-f8209a905f6b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/9c9c6a45-aa62-4597-b0be-f8209a905f6b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "fdfde357-f75e-48e5-8593-eb18b93744e8",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/fdfde357-f75e-48e5-8593-eb18b93744e8.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "97b92a1e-8173-4807-a735-ddaa5f7c221b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/97b92a1e-8173-4807-a735-ddaa5f7c221b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "97b92a1e-8173-4807-a735-ddaa5f7c221b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/97b92a1e-8173-4807-a735-ddaa5f7c221b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "97b92a1e-8173-4807-a735-ddaa5f7c221b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/97b92a1e-8173-4807-a735-ddaa5f7c221b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "58026ddc-0bdd-4a9e-aaae-8fd873a65936",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code/58026ddc-0bdd-4a9e-aaae-8fd873a65936.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "9d1d9248-1013-4e35-8ed6-9c6c242268e7",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code/9d1d9248-1013-4e35-8ed6-9c6c242268e7.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "31015c08-015d-4846-9dc0-3392af89ca00",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/31015c08-015d-4846-9dc0-3392af89ca00.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "31015c08-015d-4846-9dc0-3392af89ca00",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/31015c08-015d-4846-9dc0-3392af89ca00.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  }
+]

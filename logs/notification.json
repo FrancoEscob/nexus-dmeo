@@ -1,0 +1,646 @@
+[
+  {
+    "session_id": "bcb2ba2c-a4f7-472f-80f5-cc6d4b7cd67a",
+    "transcript_path": "C:\\Users\\frand\\.claude\\projects\\C--Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery\\bcb2ba2c-a4f7-472f-80f5-cc6d4b7cd67a.jsonl",
+    "cwd": "C:\\Users\\frand\\Desktop\\AI LEARNING ENGLISH\\X-DEMO\\claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use ElevenLabs - search_voices (MCP)"
+  },
+  {
+    "session_id": "4fa4c3fb-aa4d-4bd5-8eae-b0275b6eab15",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/4fa4c3fb-aa4d-4bd5-8eae-b0275b6eab15.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Fetch"
+  },
+  {
+    "session_id": "69e411ed-e0a5-40ec-95d1-d65c6fcd4ffe",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/69e411ed-e0a5-40ec-95d1-d65c6fcd4ffe.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "69e411ed-e0a5-40ec-95d1-d65c6fcd4ffe",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/69e411ed-e0a5-40ec-95d1-d65c6fcd4ffe.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "69e411ed-e0a5-40ec-95d1-d65c6fcd4ffe",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/69e411ed-e0a5-40ec-95d1-d65c6fcd4ffe.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "846a85f1-855a-48aa-a19b-a82c5ad5dfe8",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/846a85f1-855a-48aa-a19b-a82c5ad5dfe8.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "fdfde357-f75e-48e5-8593-eb18b93744e8",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/fdfde357-f75e-48e5-8593-eb18b93744e8.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "fdfde357-f75e-48e5-8593-eb18b93744e8",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/fdfde357-f75e-48e5-8593-eb18b93744e8.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "97b92a1e-8173-4807-a735-ddaa5f7c221b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/97b92a1e-8173-4807-a735-ddaa5f7c221b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "b0afdaac-afcb-4af1-aa34-82ba2d3a236b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/b0afdaac-afcb-4af1-aa34-82ba2d3a236b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "b0afdaac-afcb-4af1-aa34-82ba2d3a236b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/b0afdaac-afcb-4af1-aa34-82ba2d3a236b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "b0afdaac-afcb-4af1-aa34-82ba2d3a236b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/b0afdaac-afcb-4af1-aa34-82ba2d3a236b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "1d537bef-3666-4671-b980-84d29e56081b",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/1d537bef-3666-4671-b980-84d29e56081b.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "4518aee8-1c6b-45e7-a4b5-9fe266be3bde",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/4518aee8-1c6b-45e7-a4b5-9fe266be3bde.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "4518aee8-1c6b-45e7-a4b5-9fe266be3bde",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code-hooks-mastery/4518aee8-1c6b-45e7-a4b5-9fe266be3bde.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code-hooks-mastery",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "35a25ea8-6050-4307-a9db-fdde32bde595",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code/35a25ea8-6050-4307-a9db-fdde32bde595.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code",
+    "hook_event_name": "Notification",
+    "message": "Claude Code login successful"
+  },
+  {
+    "session_id": "9d1d9248-1013-4e35-8ed6-9c6c242268e7",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code/9d1d9248-1013-4e35-8ed6-9c6c242268e7.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "9d1d9248-1013-4e35-8ed6-9c6c242268e7",
+    "transcript_path": "/home/fran/.claude/projects/-mnt-c-Users-frand-Desktop-AI-LEARNING-ENGLISH-X-DEMO-claude-code/9d1d9248-1013-4e35-8ed6-9c6c242268e7.jsonl",
+    "cwd": "/mnt/c/Users/frand/Desktop/AI LEARNING ENGLISH/X-DEMO/claude-code",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "aee1ded9-fa17-47e2-b1a7-6f6ea530d915",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/aee1ded9-fa17-47e2-b1a7-6f6ea530d915.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude Code login successful"
+  },
+  {
+    "session_id": "bed9d428-d4bd-49e2-ab74-afbfecd93434",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/bed9d428-d4bd-49e2-ab74-afbfecd93434.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use perplexity - deep_research (MCP)"
+  },
+  {
+    "session_id": "c51af451-9000-4f07-8d8d-442e2a59b00a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/c51af451-9000-4f07-8d8d-442e2a59b00a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f4dcb4-8f2e-480f-aaf0-39da98e371c1",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/50f4dcb4-8f2e-480f-aaf0-39da98e371c1.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "0fd670e1-7a61-4bbe-917a-0cbca5010ed0",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/0fd670e1-7a61-4bbe-917a-0cbca5010ed0.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "31015c08-015d-4846-9dc0-3392af89ca00",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/31015c08-015d-4846-9dc0-3392af89ca00.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Update"
+  },
+  {
+    "session_id": "31015c08-015d-4846-9dc0-3392af89ca00",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/31015c08-015d-4846-9dc0-3392af89ca00.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "5aab28de-84f9-4096-9c8b-6f9bc4360a2c",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research/5aab28de-84f9-4096-9c8b-6f9bc4360a2c.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "message": "Claude needs your input"
+  },
+  {
+    "message": "Test notification"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "message": "Test with MessageBox"
+  },
+  {
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "3e78d6a4-0f37-4dfe-8049-ea8759b34e5a",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/3e78d6a4-0f37-4dfe-8049-ea8759b34e5a.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "d80fbd4b-ea72-400b-b4a8-c7b2d73a780b",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/d80fbd4b-ea72-400b-b4a8-c7b2d73a780b.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "0d2b0e1f-ae6a-4897-877b-a698e151dcc6",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/0d2b0e1f-ae6a-4897-877b-a698e151dcc6.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "50f07b5f-b079-47d1-8cad-61ac0e85b717",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input"
+  },
+  {
+    "session_id": "34f1a6d7-1618-4a73-9631-e6abf51a3d23",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/34f1a6d7-1618-4a73-9631-e6abf51a3d23.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "ef281845-4d4f-4cc4-bbd7-6db4a099f528",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/ef281845-4d4f-4cc4-bbd7-6db4a099f528.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude Code login successful"
+  },
+  {
+    "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  },
+  {
+    "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+    "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+    "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Bash"
+  }
+]

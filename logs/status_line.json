@@ -1,0 +1,1054 @@
+[
+  {
+    "timestamp": "2025-10-01T00:35:09.607788",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.15834895999999998,
+        "total_duration_ms": 233189,
+        "total_api_duration_ms": 24286,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:35:12.428013",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.17069963999999999,
+        "total_duration_ms": 235994,
+        "total_api_duration_ms": 1541,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:35:12.446635",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.17069963999999999,
+        "total_duration_ms": 236007,
+        "total_api_duration_ms": 1541,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:35:12.458933",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.17069963999999999,
+        "total_duration_ms": 236021,
+        "total_api_duration_ms": 1541,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:35:16.151127",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.18436975999999997,
+        "total_duration_ms": 239742,
+        "total_api_duration_ms": 7498,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:35:25.292810",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.20816519999999997,
+        "total_duration_ms": 248887,
+        "total_api_duration_ms": 17661,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:45:31.272308",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.20816519999999997,
+        "total_duration_ms": 854741,
+        "total_api_duration_ms": 17661,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:45:31.444387",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.20816519999999997,
+        "total_duration_ms": 855042,
+        "total_api_duration_ms": 17661,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:47:06.138672",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.20816519999999997,
+        "total_duration_ms": 949732,
+        "total_api_duration_ms": 17661,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:47:06.442564",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.20816519999999997,
+        "total_duration_ms": 950033,
+        "total_api_duration_ms": 17661,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u26a1 \u001b[97m/prime_cc\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:48:00.400517",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.22716907999999997,
+        "total_duration_ms": 1003987,
+        "total_api_duration_ms": 28214,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:48:00.418597",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.22716907999999997,
+        "total_duration_ms": 1003997,
+        "total_api_duration_ms": 28214,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:48:03.541852",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.24286327999999996,
+        "total_duration_ms": 1007131,
+        "total_api_duration_ms": 31009,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:48:08.345762",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.26017327999999995,
+        "total_duration_ms": 1011930,
+        "total_api_duration_ms": 35589,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:48:08.396786",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.26017327999999995,
+        "total_duration_ms": 1011987,
+        "total_api_duration_ms": 35589,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:49:12.493405",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.3147425199999999,
+        "total_duration_ms": 1076037,
+        "total_api_duration_ms": 109532,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:49:13.009442",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.3147425199999999,
+        "total_duration_ms": 1076471,
+        "total_api_duration_ms": 109532,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:52:12.703922",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.34274035999999997,
+        "total_duration_ms": 1229554,
+        "total_api_duration_ms": 128471,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:51:46.361092",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.34274035999999997,
+        "total_duration_ms": 1229950,
+        "total_api_duration_ms": 128471,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:52:14.734357",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.4309022799999999,
+        "total_duration_ms": 1258321,
+        "total_api_duration_ms": 112361,
+        "total_lines_added": 272,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:52:20.465235",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.44916507999999994,
+        "total_duration_ms": 1264052,
+        "total_api_duration_ms": 117569,
+        "total_lines_added": 272,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:52:20.477811",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.44916507999999994,
+        "total_duration_ms": 1264066,
+        "total_api_duration_ms": 117569,
+        "total_lines_added": 272,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:54:53.468969",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 1.0043984400000001,
+        "total_duration_ms": 1417061,
+        "total_api_duration_ms": 178566,
+        "total_lines_added": 579,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:54:58.920576",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 1.0239428400000001,
+        "total_duration_ms": 1422509,
+        "total_api_duration_ms": 183827,
+        "total_lines_added": 579,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:54:58.934443",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 1.0239428400000001,
+        "total_duration_ms": 1422521,
+        "total_api_duration_ms": 183827,
+        "total_lines_added": 579,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:58:15.642940",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 1.4405015399999999,
+        "total_duration_ms": 1619238,
+        "total_api_duration_ms": 439211,
+        "total_lines_added": 844,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T00:58:19.701838",
+    "version": "v4",
+    "input_data": {
+      "session_id": "f88c5d63-be2f-4037-89f1-f151c0d51beb",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/f88c5d63-be2f-4037-89f1-f151c0d51beb.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 1.4405015399999999,
+        "total_duration_ms": 1623298,
+        "total_api_duration_ms": 439211,
+        "total_lines_added": 844,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97mthere is a problem, the hooks for the context_bundle isn't working, for example for this chat, di...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T15:39:24.806704",
+    "version": "v4",
+    "input_data": {
+      "session_id": "d5068dc0-40db-4888-b199-5214f08019d2",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/d5068dc0-40db-4888-b199-5214f08019d2.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 4382,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[glm-4.6] \ud83d\udcad No session data",
+    "error": "Session file .claude/data/sessions/d5068dc0-40db-4888-b199-5214f08019d2.json does not exist"
+  },
+  {
+    "timestamp": "2025-10-01T15:39:24.808656",
+    "version": "v4",
+    "input_data": {
+      "session_id": "d5068dc0-40db-4888-b199-5214f08019d2",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/d5068dc0-40db-4888-b199-5214f08019d2.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 4382,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[glm-4.6]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T19:39:45.080684",
+    "version": "v4",
+    "input_data": {
+      "session_id": "7d64edda-2761-4279-95b5-c05f9af1d95d",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/7d64edda-2761-4279-95b5-c05f9af1d95d.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 1804,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[glm-4.6] \ud83d\udcad No session data",
+    "error": "Session file .claude/data/sessions/7d64edda-2761-4279-95b5-c05f9af1d95d.json does not exist"
+  },
+  {
+    "timestamp": "2025-10-01T19:39:45.081958",
+    "version": "v4",
+    "input_data": {
+      "session_id": "7d64edda-2761-4279-95b5-c05f9af1d95d",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/7d64edda-2761-4279-95b5-c05f9af1d95d.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 1804,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[glm-4.6]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T19:42:58.383674",
+    "version": "v4",
+    "input_data": {
+      "session_id": "7d64edda-2761-4279-95b5-c05f9af1d95d",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/7d64edda-2761-4279-95b5-c05f9af1d95d.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.0655508,
+        "total_duration_ms": 201578,
+        "total_api_duration_ms": 53559,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Axiom]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \ud83d\udcac \u001b[97mExplicame como fujnciona git init y como son los comandos para iniciar unrepo y luego subirlo a m...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T19:45:51.153483",
+    "version": "v4",
+    "input_data": {
+      "session_id": "7d64edda-2761-4279-95b5-c05f9af1d95d",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/7d64edda-2761-4279-95b5-c05f9af1d95d.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.0655508,
+        "total_duration_ms": 374235,
+        "total_api_duration_ms": 53559,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Axiom]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \ud83d\udcac \u001b[97mExplicame como fujnciona git init y como son los comandos para iniciar unrepo y luego subirlo a m...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T19:45:51.329798",
+    "version": "v4",
+    "input_data": {
+      "session_id": "7d64edda-2761-4279-95b5-c05f9af1d95d",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/7d64edda-2761-4279-95b5-c05f9af1d95d.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.0655508,
+        "total_duration_ms": 374535,
+        "total_api_duration_ms": 53559,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Axiom]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \ud83d\udcac \u001b[97mExplicame como fujnciona git init y como son los comandos para iniciar unrepo y luego subirlo a m...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-10-01T19:46:05.260678",
+    "version": "v4",
+    "input_data": {
+      "session_id": "7d64edda-2761-4279-95b5-c05f9af1d95d",
+      "transcript_path": "/home/fran/.claude/projects/-home-fran-Desktop-Language-Learning-Research2/7d64edda-2761-4279-95b5-c05f9af1d95d.jsonl",
+      "cwd": "/home/fran/Desktop/Language-Learning-Research2",
+      "model": {
+        "id": "glm-4.6",
+        "display_name": "glm-4.6"
+      },
+      "workspace": {
+        "current_dir": "/home/fran/Desktop/Language-Learning-Research2",
+        "project_dir": "/home/fran/Desktop/Language-Learning-Research2"
+      },
+      "version": "2.0.2",
+      "output_style": {
+        "name": "Explanatory"
+      },
+      "cost": {
+        "total_cost_usd": 0.07982260000000001,
+        "total_duration_ms": 388467,
+        "total_api_duration_ms": 65353,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Axiom]\u001b[0m | \u001b[34m[glm-4.6]\u001b[0m | \u2753 \u001b[97m(base) fran@FranchutEE:~/Desktop/Language-Learning-Research2$ git ini t Reinitialized existing Gi...\u001b[0m"
+  }
+]

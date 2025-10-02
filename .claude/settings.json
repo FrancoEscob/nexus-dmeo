@@ -1,0 +1,120 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash(mkdir:*)",
+            "Bash(uv:*)",
+            "Bash(find:*)",
+            "Bash(mv:*)",
+            "Bash(grep:*)",
+            "Bash(npm:*)",
+            "Bash(ls:*)",
+            "Bash(cp:*)",
+            "Write",
+            "Edit",
+            "Read",
+            "Bash(chmod:*)",
+            "Bash(touch:*)"
+        ],
+        "deny": []
+    },
+     "env": {
+            "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+            "ANTHROPIC_AUTH_TOKEN": "67eac4e396f040749493e20de40b2c7e.YcMLPfN9MAIpEOTs",
+            "ANTHROPIC_MODEL": "glm-4.6",
+            "USE_BUILTIN_RIPGREP": "1",
+            "RIPGREP_CONFIG_PATH": "dummy"
+        },
+    "statusLine": {
+        "type": "command",
+        "command": "uv run .claude/status_lines/status_line_v4.py",
+        "padding": 0
+    },
+    "hooks": {
+        "SessionStart": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/session_start.py --load-context"
+                    }
+                ]
+            }
+        ],
+        "UserPromptSubmit": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/user_prompt_submit.py --log-only --store-last-prompt --name-agent"
+                    },
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/bundle_hook.py"
+                    }
+                ]
+            }
+        ],
+        "PreToolUse": [
+            {
+                "matcher": "*",
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/pre_tool_use.py"
+                    }
+                ]
+            }
+        ],
+        "PostToolUse": [
+            {
+                "matcher": "*",
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/bundle_hook.py"
+                    }
+                ]
+            }
+        ],
+        "Notification": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/notification.py --notify"
+                    }
+                ]
+            }
+        ],
+        "Stop": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/stop.py --chat"
+                    }
+                ]
+            }
+        ],
+        "SubagentStop": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/subagent_stop.py --notify"
+                    }
+                ]
+            }
+        ],
+        "PreCompact": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "uv run .claude/hooks/pre_compact.py --backup"
+                    }
+                ]
+            }
+        ]
+    }
+}

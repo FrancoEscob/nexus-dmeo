@@ -1,0 +1,5 @@
+Error en bundle_hook.py: No module named 'pytz'
+Error decoding JSON in bundle_hook.py: Expecting value: line 1 column 1 (char 0)
+Raw: 
+Error decoding JSON in bundle_hook.py: Expecting value: line 1 column 1 (char 0)
+Raw: 

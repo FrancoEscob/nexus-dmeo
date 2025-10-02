@@ -1,0 +1,12 @@
+{"operation": "prompt", "prompt": "<ide_opened_file>The user opened the file /home/fran/Desktop/Language-Learning-Research2/.claude/agents/context_bundles/50f07b5f-b079-47d1-8cad-61ac0e85b717.jsonl in the IDE. This may or may not be related to the current task.</ide_opened_file>\nhola, estoy usando este alias alias cld='export CLAUDE_SESSION_ID=\"SAT_$(date +%y_%m_%d-%H_%M_%S)-$(head /dev/urandom | tr -dc A-Za-z0-9 | head -c 8)\"; claude' para el tema de hooks, pero la extension de IDE de claude code, que pone el iconito de claude y lanza la UI de claude code dentro del IDE, creo que abre por defecto con \"claude\" y no con el alias de \"cld\" que yo uso en mis terminales WSL, que puedo hacer? hay forma de comprobar como lanza la extension? y hay forma de cambiarlo o configuirarlo? si es  necesario investiga en internet sobre la extension de claude code para IDE."}
+{"operation": "todowrite", "tool": "TodoWrite"}
+{"operation": "todowrite", "tool": "TodoWrite"}
+{"operation": "websearch", "tool": "WebSearch"}
+{"operation": "websearch", "tool": "WebSearch"}
+{"operation": "mcp__context7__resolve-library-id", "tool": "mcp__context7__resolve-library-id"}
+{"operation": "mcp__context7__get-library-docs", "tool": "mcp__context7__get-library-docs"}
+{"operation": "todowrite", "tool": "TodoWrite"}
+{"operation": "mcp__context7__get-library-docs", "tool": "mcp__context7__get-library-docs"}
+{"operation": "mcp__context7__get-library-docs", "tool": "mcp__context7__get-library-docs"}
+{"operation": "bash", "command": "which claude"}
+{"operation": "bash", "command": "ls -la ~/.vscode/extensions/ | grep -i claude"}
