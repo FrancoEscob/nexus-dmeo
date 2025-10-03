@@ -1,0 +1,15 @@
+# Dependencies
+frontend/node_modules
+
+# Python
+backend/.venv
+backend/__pycache__
+
+# Environment
+backend/.env
+frontend/.env.local
+
+# Build artifacts
+frontend/.next
+frontend/out
+backend/*.pyc

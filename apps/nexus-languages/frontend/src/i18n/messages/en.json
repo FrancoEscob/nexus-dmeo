@@ -1,0 +1,105 @@
+{
+  "common": {
+    "badgeComingSoon": "New demo under construction"
+  },
+  "landing": {
+    "hero": {
+      "badge": "New demo under construction",
+      "title": "Master pronunciation with friendly, real-time coaching",
+      "description": "We're crafting an upgraded experience powered by Azure Speech so you can record, analyze and understand tips without the technical jargon.",
+      "primaryCta": "Preview demo",
+      "secondaryCta": "Join the waitlist",
+      "preview": {
+        "title": "Pronunciation insights",
+        "tag": "Preview",
+        "metrics": {
+          "accuracy": "Accuracy",
+          "fluency": "Fluency",
+          "completeness": "Completeness",
+          "prosody": "Prosody"
+        },
+        "goalLabel": "Goal: 90",
+        "tipTitle": "Suggested next step",
+        "tipBody": "Practice the long /iː/ vowel with “beach”, “need” and “feel”."
+      }
+    },
+    "demoFlow": {
+      "title": "How the demo will work",
+      "subtitle": "Four quick steps from choosing your languages to receiving friendly feedback.",
+      "steps": {
+        "selectLanguages": {
+          "badge": "Step 1",
+          "title": "Choose native + target",
+          "description": "Azure Speech supports dozens of language pairs so you can tailor the experience to your accent."
+        },
+        "pickSentence": {
+          "badge": "Step 2",
+          "title": "Pick a practice sentence",
+          "description": "Use smart suggestions or write your own phrase to focus on the scenarios you need the most."
+        },
+        "recordAudio": {
+          "badge": "Step 3",
+          "title": "Record up to 10 seconds",
+          "description": "Capture your voice with a friendly recorder, waveform preview and quick playback."
+        },
+        "reviewFeedback": {
+          "badge": "Step 4",
+          "title": "Review scores & tips",
+          "description": "See clear gauges, improvement cards and optional deep dives into phonemes and prosody."
+        }
+      },
+      "cta": "Full experience coming soon"
+    },
+    "demoExperience": {
+      "title": "Preview the interactive demo",
+      "subtitle": "Start choosing languages, explore practice phrases and check your available quota in seconds.",
+      "targetLabel": "Which language do you want to practice?",
+      "nativeLabel": "What's your native language?",
+      "targetPlaceholder": "Search target locale",
+      "nativePlaceholder": "Search native locale",
+      "sampleLabel": "Suggested phrase",
+      "samplePlaceholder": "Pick a phrase or type your own",
+      "sampleHint": "Tip: short sentences (≤ 10 seconds) produce the most reliable scores.",
+      "voicesLabel": "Preview voices",
+      "controls": {
+        "refresh": "New suggestion",
+        "checkQuota": "Check availability",
+        "start": "Start practice"
+      },
+      "status": {
+        "loadingLocales": "Loading locales...",
+        "noLocales": "We couldn’t load the locales. Try again in a moment.",
+        "quotaOk": "You still have {remaining, number} attempts available in this window.",
+        "quotaBlocked": "Please wait {minutes, number} minutes before trying again.",
+        "quotaDaily": "Daily limit reached. Come back tomorrow!",
+        "quotaError": "We couldn’t verify your quota. Please try again."
+      }
+    },
+    "languages": {
+      "title": "Support for dozens of language combinations",
+      "description": "Spanish, English, Portuguese, French, German and many more locales directly from Azure Pronunciation Assessment.",
+      "highlight": "We’re preparing a complete browser picker so you can explore every locale before recording."
+    },
+    "upcoming": {
+      "title": "What’s arriving in the next iterations",
+      "items": {
+        "visualFeedback": {
+          "title": "Friendlier feedback cards",
+          "description": "Swipe through colorful insights, expand for detailed tips and save your favorites."
+        },
+        "metrics": {
+          "title": "Rich metrics dashboard",
+          "description": "Track accuracy, fluency, completeness and prosody with accessible descriptions."
+        },
+        "coaching": {
+          "title": "Coaching in your language",
+          "description": "Switch between English and Spanish explanations instantly to stay immersed."
+        },
+        "plans": {
+          "title": "Action plans in one click",
+          "description": "Generate 7 and 30-day plans powered by Gemini with tips tailored to your goals."
+        }
+      }
+    }
+  }
+}

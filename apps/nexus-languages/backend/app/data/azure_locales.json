@@ -1,0 +1,132 @@
+[
+  {
+    "target_locale": "en-US",
+    "target_language": "English",
+    "target_display_name": "English (United States)",
+    "native_locales": [
+      {"locale": "en-US", "display_name": "English (United States)"},
+      {"locale": "es-ES", "display_name": "Español (España)"}
+    ],
+    "voices": [
+      {"short_name": "en-US-JennyNeural", "display_name": "Jenny", "gender": "Female"},
+      {"short_name": "en-US-GuyNeural", "display_name": "Guy", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "en-GB",
+    "target_language": "English",
+    "target_display_name": "English (United Kingdom)",
+    "native_locales": [
+      {"locale": "en-GB", "display_name": "English (United Kingdom)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "en-GB-LibbyNeural", "display_name": "Libby", "gender": "Female"},
+      {"short_name": "en-GB-RyanNeural", "display_name": "Ryan", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "es-ES",
+    "target_language": "Spanish",
+    "target_display_name": "Español (España)",
+    "native_locales": [
+      {"locale": "es-ES", "display_name": "Español (España)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "es-ES-ElviraNeural", "display_name": "Elvira", "gender": "Female"},
+      {"short_name": "es-ES-AlvaroNeural", "display_name": "Álvaro", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "es-MX",
+    "target_language": "Spanish",
+    "target_display_name": "Español (México)",
+    "native_locales": [
+      {"locale": "es-MX", "display_name": "Español (México)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "es-MX-DaliaNeural", "display_name": "Dalia", "gender": "Female"},
+      {"short_name": "es-MX-JorgeNeural", "display_name": "Jorge", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "fr-FR",
+    "target_language": "French",
+    "target_display_name": "Français (France)",
+    "native_locales": [
+      {"locale": "fr-FR", "display_name": "Français (France)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "fr-FR-DeniseNeural", "display_name": "Denise", "gender": "Female"},
+      {"short_name": "fr-FR-HenriNeural", "display_name": "Henri", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "de-DE",
+    "target_language": "German",
+    "target_display_name": "Deutsch (Deutschland)",
+    "native_locales": [
+      {"locale": "de-DE", "display_name": "Deutsch (Deutschland)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "de-DE-KatjaNeural", "display_name": "Katja", "gender": "Female"},
+      {"short_name": "de-DE-ConradNeural", "display_name": "Conrad", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "pt-BR",
+    "target_language": "Portuguese",
+    "target_display_name": "Português (Brasil)",
+    "native_locales": [
+      {"locale": "pt-BR", "display_name": "Português (Brasil)"},
+      {"locale": "pt-PT", "display_name": "Português (Portugal)"}
+    ],
+    "voices": [
+      {"short_name": "pt-BR-FranciscaNeural", "display_name": "Francisca", "gender": "Female"},
+      {"short_name": "pt-BR-AntonioNeural", "display_name": "Antônio", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "ja-JP",
+    "target_language": "Japanese",
+    "target_display_name": "日本語 (日本)",
+    "native_locales": [
+      {"locale": "ja-JP", "display_name": "日本語 (日本)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "ja-JP-NanamiNeural", "display_name": "Nanami", "gender": "Female"},
+      {"short_name": "ja-JP-KeitaNeural", "display_name": "Keita", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "ko-KR",
+    "target_language": "Korean",
+    "target_display_name": "한국어 (대한민국)",
+    "native_locales": [
+      {"locale": "ko-KR", "display_name": "한국어 (대한민국)"},
+      {"locale": "en-US", "display_name": "English (United States)"}
+    ],
+    "voices": [
+      {"short_name": "ko-KR-SunHiNeural", "display_name": "SunHi", "gender": "Female"},
+      {"short_name": "ko-KR-InJoonNeural", "display_name": "InJoon", "gender": "Male"}
+    ]
+  },
+  {
+    "target_locale": "zh-CN",
+    "target_language": "Chinese",
+    "target_display_name": "中文 (普通话, 中国)",
+    "native_locales": [
+      {"locale": "zh-CN", "display_name": "中文 (普通话, 中国)"},
+      {"locale": "zh-TW", "display_name": "中文 (台灣)"}
+    ],
+    "voices": [
+      {"short_name": "zh-CN-XiaoxiaoNeural", "display_name": "Xiaoxiao", "gender": "Female"},
+      {"short_name": "zh-CN-YunxiNeural", "display_name": "Yunxi", "gender": "Male"}
+    ]
+  }
+]

@@ -33,6 +33,11 @@ Thumbs.db
 # Logs
 logs/
 *.log
+guide/
+docs/
+ai_docs/
+.claude/
+videos-claude/
 
 # Environment files
 .env
